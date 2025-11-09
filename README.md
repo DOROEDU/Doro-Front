@@ -9,8 +9,8 @@
 
 ## 🚀 배포 주소 🚀
 
-> **안드로이드** : [https://play.google.com/store/apps/details?id=com.doro.android&hl=ko-KR](https://play.google.com/store/apps/details?id=com.doro.android&hl=ko-KR) <br>
-> **IOS** : [https://apps.apple.com/kr/app/doro-edu/id6450978098](https://apps.apple.com/kr/app/doro-edu/id6450978098) <br>
+> **안드로이드** : 현재 베포 중단 <br>
+> **IOS** : 현재 배포 중단 <br>
 <br/>
 
 ## 📱 애플리케이션 개발팀 📱
